@@ -58,7 +58,7 @@ publisher: Whatever
 
 developer: Whatever
 
-year: xxxxx
+year: xxxx
 
 maxplayers: x
 
