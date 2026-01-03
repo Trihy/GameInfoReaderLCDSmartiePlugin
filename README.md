@@ -64,5 +64,6 @@ maxplayers: x
 
 genre: Whatever 
 
+Use an IA or whatever you like to generate some txt with description. You can do it for apps too. Then place them on a folder and configure the plugin.
 
 USE at your own risk.
