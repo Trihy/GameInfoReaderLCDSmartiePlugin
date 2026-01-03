@@ -1,10 +1,10 @@
 # GameInfoReader - LCDSmartie Functions
 
 - `$DLL(GameInfoReader,1,)`  
-  **Game title** (tag `<title>`)
+  **Game title**
 
 - `$DLL(GameInfoReader,2,)`  
-  **Description / plot** (tag `<plot>`)
+  **Description / plot**
 
 - `$DLL(GameInfoReader,3,)`  
   **Game publisher**
@@ -20,23 +20,18 @@
 
 - `$DLL(GameInfoReader,7,)`  
   **Game genre**  
-  Multiple `<genre>` tags are separated by the configured separator
 
 - `$DLL(GameInfoReader,8,)`  
   **Publisher + Developer**  
-  Example: Sega - Sonic Team
 
 - `$DLL(GameInfoReader,9,)`  
-  **Publisher + Year**  
-  Example: Sega - 1991
+  **Publisher + Year** 
 
 - `$DLL(GameInfoReader,10,)`  
   **Year + Genre**  
-  Example: 1991 - Action - Platform
 
 - `$DLL(GameInfoReader,11,)`  
   **Title + Developer**  
-  Example: Sonic the Hedgehog - Sonic Team
 
 - `$DLL(GameInfoReader,12,)`  
   **Title + Developer + Year**
