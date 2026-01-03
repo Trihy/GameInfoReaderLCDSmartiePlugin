@@ -50,3 +50,12 @@
 
 ### Every .txt should follow this form:
 
+title: GameTitle
+plot: GamePlot
+publisher: Whatever
+developer: Whatever
+year: xxxxx
+maxplayers: x
+genre: Whatever
+
+
