@@ -1,48 +1,48 @@
 # GameInfoReader - LCDSmartie Functions
 
-- `$DLL(GameInfoReader,1,)`  
+- `$DLL(GameInfoReader,1,,)`  
   **Game title**
 
-- `$DLL(GameInfoReader,2,)`  
+- `$DLL(GameInfoReader,2,,)`  
   **Description / plot**
 
-- `$DLL(GameInfoReader,3,)`  
+- `$DLL(GameInfoReader,3,,)`  
   **Game publisher**
 
-- `$DLL(GameInfoReader,4,)`  
+- `$DLL(GameInfoReader,4,,)`  
   **Game developer**
 
-- `$DLL(GameInfoReader,5,)`  
+- `$DLL(GameInfoReader,5,,)`  
   **Release year**
 
-- `$DLL(GameInfoReader,6,)`  
+- `$DLL(GameInfoReader,6,,)`  
   **Maximum number of players**
 
-- `$DLL(GameInfoReader,7,)`  
+- `$DLL(GameInfoReader,7,,)`  
   **Game genre**  
 
-- `$DLL(GameInfoReader,8,)`  
+- `$DLL(GameInfoReader,8,,)`  
   **Publisher + Developer**  
 
-- `$DLL(GameInfoReader,9,)`  
+- `$DLL(GameInfoReader,9,,)`  
   **Publisher + Year** 
 
-- `$DLL(GameInfoReader,10,)`  
+- `$DLL(GameInfoReader,10,,)`  
   **Year + Genre**  
 
-- `$DLL(GameInfoReader,11,)`  
+- `$DLL(GameInfoReader,11,,)`  
   **Title + Developer**  
 
-- `$DLL(GameInfoReader,12,)`  
+- `$DLL(GameInfoReader,12,,)`  
   **Title + Developer + Year**
 
-- `$DLL(GameInfoReader,13,)`  
+- `$DLL(GameInfoReader,13,,)`  
   **Title + Genre + Year**
 
-- `$DLL(GameInfoReader,14,)`  
+- `$DLL(GameInfoReader,14,,)`  
   **Title + Developer + Year + Genre + MaxPlayers**
 
-- `$DLL(GameInfoReader,15,)`  
+- `$DLL(GameInfoReader,15,,)`  
   **Name of the active executable**  
   (without the `.exe` extension)
 
