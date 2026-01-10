@@ -65,6 +65,6 @@ maxplayers: x
 
 genre: Whatever 
 
-Use an IA or whatever you like to generate some txt with descriptions for your favorite games / apps. Then place them in a folder and configure the plugin.
+Use an IA or whatever you like to generate some txt with descriptions for your favorite games / apps. Then place them in a folder and configure the plugin. txt name should match exe name (without the .exe)
 
 USE at your own risk.
