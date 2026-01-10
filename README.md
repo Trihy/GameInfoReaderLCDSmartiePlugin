@@ -55,9 +55,9 @@ title: GameTitle
 
 plot: GamePlot
 
-publisher: Whatever
+publisher: GamePublisher
 
-developer: Whatever
+developer: GameDeveloper
 
 year: xxxx
 
