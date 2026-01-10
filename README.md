@@ -1,4 +1,5 @@
 # GameInfoReader - LCDSmartie Functions
+Game&Apps reader from txt files  
 
 - `$DLL(GameInfoReader,1,,)`  
   **Game title**
